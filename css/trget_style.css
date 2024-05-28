@@ -1,0 +1,38 @@
+.target 
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 5px solid black;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.horisontal
+{
+    width: 100px;
+    background-color: black;
+    height: 5px;
+    position: absolute;
+    margin-top: 48px;
+}
+
+.vertical
+{
+    width: 5px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    margin-left: 48px;
+}
+
+.point
+{
+    height: 20px;
+    width: 20px;
+    border: 5px solid black;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 35px;
+}
